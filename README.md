@@ -1,4 +1,4 @@
-![Faizaan Sakib](./name.gif)
+![Faizaan Sakib](name.gif)
 
 ---
 
