@@ -1,5 +1,9 @@
 ![Faizaan](https://user-images.githubusercontent.com/15062683/91703249-f2381f80-eb8a-11ea-9f4d-73188a609c6d.gif)
 
+<p align="center">
+  👋 Welcome to my GitHub! Here's a few things about me: 
+</p>
+
 🎓 ◦ I have just graduated with an MEng in Computer Science from the University of Bristol 
 
 💻 ◦ I'm now actively looking for opportunities in software engineering
@@ -9,6 +13,8 @@
 📚 ◦ I am interested in backend engineering, deep learning and computer vision
 
 🦍 ◦ My final year thesis involved the use of deep learning to perform [automated behaviour recognition of great apes](https://github.com/fznsakib/great-ape-behaviour-detector)
+
+🗂 ◦ Check out my other repositories [here](https://github.com/fznsakib?tab=repositories)
 
 ☎️ ◦ Contact me via [email](mailto:fznsakib@gmail.com) or [LinkedIn](https://www.linkedin.com/in/faizaan-sakib/)
 
@@ -41,3 +47,5 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-orange?style=flat&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-orange?style=flat&logo=pytorch&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue-orange?style=flat&logo=vue.js&logoColor=white)
+
+
