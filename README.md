@@ -1,7 +1,5 @@
 ![Faizaan](https://user-images.githubusercontent.com/15062683/91703249-f2381f80-eb8a-11ea-9f4d-73188a609c6d.gif)
 
----
-
 🎓 ◦ I have just graduated with an MEng in Computer Science from the University of Bristol 
 
 💻 ◦ I'm now actively looking for opportunities in software engineering
