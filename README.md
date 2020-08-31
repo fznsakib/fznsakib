@@ -1,3 +1,7 @@
+![Faizaan Sakib](./name.gif)
+
+---
+
 🎓 ◦ I have just graduated with an MEng in Computer Science from the University of Bristol 
 
 💻 ◦ I'm now actively looking for opportunities in software engineering
