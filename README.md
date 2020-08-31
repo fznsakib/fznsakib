@@ -1,6 +1,3 @@
-# Name GIF goes here
-
-
 🎓 ◦ I have just graduated with an MEng in Computer Science from the University of Bristol 
 
 💻 ◦ I'm now actively looking for opportunities in software engineering
@@ -10,13 +7,6 @@
 📚 ◦ I have a keen interest in backend engineering and deep learning in computer vision
 
 🦍 ◦ My final year thesis involved the use of deep learning to perform [automated behaviour recognition of great apes](https://github.com/fznsakib/great-ape-behaviour-detector)
-
-<a align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
-
-
-<p align="center">
-  
-</p>
 
 ☎️ ◦ Contact me via [email](mailto:fznsakib@gmail.com) or [LinkedIn](https://www.linkedin.com/in/faizaan-sakib/)
 
