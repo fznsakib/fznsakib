@@ -1,4 +1,4 @@
-![Faizaan Sakib](name.gif)
+![Faizaan](https://user-images.githubusercontent.com/15062683/91703249-f2381f80-eb8a-11ea-9f4d-73188a609c6d.gif)
 
 ---
 
