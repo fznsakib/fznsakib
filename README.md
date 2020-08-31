@@ -6,7 +6,7 @@
 
 🔭 ◦ I’m currently working on my portfolio and blog website using Gatsby.js and GraphQL
 
-📚 ◦ I have a keen interest in backend engineering and deep learning in computer vision
+📚 ◦ I am interested in backend engineering, deep learning and computer vision
 
 🦍 ◦ My final year thesis involved the use of deep learning to perform [automated behaviour recognition of great apes](https://github.com/fznsakib/great-ape-behaviour-detector)
 
