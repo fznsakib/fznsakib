@@ -1,4 +1,6 @@
-![Faizaan](https://user-images.githubusercontent.com/15062683/91703249-f2381f80-eb8a-11ea-9f4d-73188a609c6d.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/15062683/98091268-9cd80180-1e9e-11eb-95ad-14ce1da4598a.gif" alt="Faizaan Sakib">
+</p>
 
 <p align="center">
   👋 Welcome to my GitHub! Here's a few things about me: 
