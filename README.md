@@ -6,11 +6,11 @@
   👋 Welcome to my GitHub! Here's a few things about me: 
 </p>
 
-🎓 ◦ I have just graduated with an MEng in Computer Science from the University of Bristol 
+💻 ◦ I currently work at [Bx](https://bx-earth.com) - developing technology to help reverse climate change through sustainable food production
 
-💻 ◦ I'm now actively looking for opportunities in software engineering
+🎓 ◦ I graduated with an MEng in Computer Science from the University of Bristol in 2020
 
-🔭 ◦ I’m currently working on my portfolio and blog website using Gatsby.js and GraphQL
+🔭 ◦ I’m currently exploring Web3 technologies including dApps, smart contracts and NFTs
 
 📚 ◦ I have experience in backend engineering, cloud computing, blockchain, VR, computer vision, deep learning and more!
 
@@ -28,13 +28,16 @@
 
 **Languages**
 
-![Python](https://img.shields.io/badge/-Python-0769DA?style=flat&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-0769DA?style=flat&logo=go&logoColor=white)
 ![C](https://img.shields.io/badge/-C-0769DA?style=flat&logo=C&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%20Sharp-0769DA?style=flat&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-0769DA?style=flat&logo=C%2B%2B&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-0769DA?style=flat&logo=css3&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-0769DA?style=flat&logo=go&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-0769DA?style=flat&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0769DA?style=flat&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-0769DA?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQLite-0769DA?style=flat&logo=sqlite&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0769DA?style=flat&logo=typescript&logoColor=white)
 
 **Technologies**
 
@@ -47,7 +50,9 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-0EAAA7?style=flat&logo=jupyter&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-0EAAA7?style=flat&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-0EAAA7?style=flat&logo=pandas&logoColor=white)
+![Pulumi](https://img.shields.io/badge/-Pulumi-0EAAA7?style=flat&logo=pulumi&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-0EAAA7?style=flat&logo=pytorch&logoColor=white)
+![React](https://img.shields.io/badge/-React-0EAAA7?style=flat&logo=react&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue-0EAAA7?style=flat&logo=vue.js&logoColor=white)
 
 
