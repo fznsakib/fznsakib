@@ -6,11 +6,9 @@
   👋 Welcome to my GitHub! Here's a few things about me: 
 </p>
 
-💻 ◦ I currently work at [Bx](https://bx-earth.com) - developing technology to help reverse climate change through sustainable food production
+💻 ◦ I currently work at [PolyAI](https://poly.ai/) - developing a low-code platform to allow users to create and deploy conversational AI agents for customer service
 
 🎓 ◦ I graduated with an MEng in Computer Science from the University of Bristol in 2020
-
-🔭 ◦ I’m currently exploring Web3 technologies including dApps, smart contracts and NFTs
 
 📚 ◦ I have experience in backend engineering, cloud computing, blockchain, VR, computer vision, deep learning and more!
 
